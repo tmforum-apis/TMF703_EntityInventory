@@ -1,8 +1,8 @@
-# TMF703_EntityInventory
-TM Forum Open APIs (Apache 2.0) Entity Inventory API
+# TMF703 EntityInventory
 
-The intent of this API is to provide a consistent/standardized mechanism to query and manipulate the Entity inventory.
+TM Forum Open API (Apache 2.0) EntityInventory API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+TM Forum Open API for EntityInventory.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
